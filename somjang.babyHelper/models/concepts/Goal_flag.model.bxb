@@ -1,0 +1,6 @@
+enum (Goal_flag) {
+  description (__DESCRIPTION__)
+  symbol (recipe)
+  symbol (eat_possible)
+  symbol (massage)
+}

@@ -1,0 +1,19 @@
+action (OurGoal) {
+  description (__DESCRIPTION__)
+  collect {
+    input (food) {
+      type (Food)
+      min (Required) max (One)
+    }
+    input (human) {
+      type (Human)
+      min (Optional) max (One)
+    }
+
+    input (goal_flag) {
+      type (Goal_flag)
+      min (Required) max (One)
+    }
+  }
+  output (Result)
+}

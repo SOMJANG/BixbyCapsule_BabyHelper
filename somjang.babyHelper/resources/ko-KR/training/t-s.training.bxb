@@ -1,0 +1,5 @@
+train (t-stpf4lkk08sms43df3nkm3r5s) {
+  utterance ("[g:OurGoal2] (10)[v:Age]개월된 (아기)[v:Human]는 어떻게 (마사지)[v:Goal_flag:massage]를 해줘야할까요?")
+  plan (Y2BlkCzOz81KzEvXS0pMqvRIzSlILdILSi0uzSlhkMYi5V9a5J6fmGPEIIZF0jE9lUEGizhIR3xaTmI6gwQWWY/S3MQ8BhYGRgYmBmYgzQBkQSAMIMkBAA==)
+  last-modified (1571810875199)
+}
