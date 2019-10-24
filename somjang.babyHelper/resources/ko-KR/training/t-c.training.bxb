@@ -1,5 +1,0 @@
-train (t-c82xe58278tsvug9t6a0pc3wj) {
-  utterance ("[g:OurGoal:continue] (쌀미음)[v:Food] (아기)[v:Human]가 (먹어도 돼)[v:Goal_flag:eat_possible]")
-  plan (Y2BlkCzOz81KzEvXS0pMqvRIzSlILdILSi0uzSlhkMIi5V9a5J6fmMMgjkXOLT8/hUEGiwRIR3xaTmI6gwQWWY/S3MQ8BhYGRgYmBmYgzQBkQSAMIMkBAA==)
-  last-modified (1571812782524)
-}

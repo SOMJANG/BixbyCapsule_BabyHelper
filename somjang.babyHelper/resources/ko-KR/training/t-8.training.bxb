@@ -1,0 +1,5 @@
+train (t-8cprfi1tndd1x9xi7qb9m432s) {
+  utterance ("[g:OurGoal] (이유식)[v:Food]을 (5)[v:Age]개월된 아기가 (먹을수 있을까)[v:Goal_flag:eat_possible]")
+  plan (Y2BlkCzOz81KzEvXS0pMqvRIzSlILdILSi0uzSlhkMIi5V9a5J6fmMMghkXOMT2VQRyLuFt+fgqDDBYJkEnxaTmJ6QwsDIwMTAzMQJoByIJAGECSAwA=)
+  last-modified (1571906050558)
+}

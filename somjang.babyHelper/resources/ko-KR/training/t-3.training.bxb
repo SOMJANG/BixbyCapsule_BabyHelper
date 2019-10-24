@@ -1,0 +1,5 @@
+train (t-3wnf9qfm6f82k1yavbdmsyihd) {
+  utterance ("[g:OurGoal] (시금치스프)[v:Food] (먹여도 돼?)[v:Goal_flag:eat_possible]")
+  plan (Y2BhkCzOz81KzEvXS0pMqvRIzSlILdILSi0uzSlhkMIi5V9a5J6fmMMgjkXOLT8/hUEGiwRIR3xaTmI6AzMDIwMTkGQA0iAIAXBRAA==)
+  last-modified (1571905856259)
+}

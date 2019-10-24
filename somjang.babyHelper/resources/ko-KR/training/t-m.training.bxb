@@ -1,0 +1,5 @@
+train (t-mcho3ihyxiu97smm3kr0cqaa9) {
+  utterance ("[g:OurGoal] (5)[v:Age]개월 된 아기가 (시금치)[v:Ingredient] (먹어도 돼)[v:Goal_flag:eat_possible]?")
+  plan (Y2BlkCzOz81KzEvXS0pMqvRIzSlILdILSi0uzSlhkMIi5V9a5J6fmMMghkXOMT2VQQaLOEhDfFpOYjqDLBZZz7z0otSUzNS8EgYWBkYGJgZmIM0AZEEgDCDJAQA=)
+  last-modified (1571905904965)
+}
